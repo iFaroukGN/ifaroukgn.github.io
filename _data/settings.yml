@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Le journal d'un voyageur
+  site_tagline: Decouvez le monde à travers le journal d'un voyageur.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,10 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Accueil'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+    # - title: 'Projects'
+#       url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -23,15 +23,15 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/contact@journaldunvoyageur.fr'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  send_button_text: 'Envoyer'
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  twitter_url: 'https://twitter.com/tweetd1voyageur'
+  instagram_url: 'http://instagram.com/lloydfairuz'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''

@@ -1,32 +1,17 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: A propos de moi
+subtitle: Voyageur des temps modernes.
+description: Voyageur des temps moderne.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-landscape.jpg) 
 
-## Features
+##Bienvenue cher•e explorateur•trice
 
-Journal is packed with powerful features to showcase your work:
+Moi c'est farouk enchanté :). C'est le moment ou tu te demandes c'est qui lui? tu vois cette petite voix dans ta tête à chaque fois tu penses à voyager? eh ben c'est moi. Oui je sais, notre envie de faire le tour du monde qu'ont nourri secrètement? eh ben, on le fera. Mais dis les prochaines vacances on va ou? attends je regarde dans mon journal. Journal mon cher journal dis moi quel ville devrais-je visiter? de part ma petite expérience de voyageur, j'essaierais de vous aider à trouver votre prochaine destiniation, Je suis un passionné de de voyage, pas le voyage en mode instagram mais celui ou l'on vie une vrai expérience, ceux dont on s'en rappelle une fois qu'on est chez soit et qui nous donne envie de repartir "encore", j'écris ce blog pour partager avec toi mes expériences, photos, astuces, et bon plans. Et pour savoir ou aller pour tes prochaines vacances rendez vous dans la section: [Ou aller](https://journaldunvoyageur.fr).
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+A très bientôt pour de nouvelle aventures :).
 
 ## Get Index
 

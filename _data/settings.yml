@@ -10,13 +10,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Accueil'
+    - title: 'Journal de bord'
       url: '/'
     # - title: 'Projects'
 #       url: '/projects/'
-    - title: 'About'
+    - title: 'Qui suis je ?'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Me contacter'
       url: '/contact'
 
 grid_settings:

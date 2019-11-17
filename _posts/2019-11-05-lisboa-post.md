@@ -17,99 +17,53 @@ Prévoir ou loger évidemment, je vous conseil le quartier de `bélem`, plein de
 Le `lisboa card` est aussi un indispensable, il vous permettra non seulement de prendre les transport en commun, mais aussi de visiter des musées de la ville et entrer gratuitement dans certains lieux touristiques. Vous pouvez en prendre pour une durée de 24h à 72h. Maintenant qu'on y est que fait on ? 
 
 ## Que faire à lisbonne ?
-1. Dégustez les pasteis de belem
+
+#### Dégustez les pasteis de belem
 Direction la `Fábrica dos pastéis de Belém` pour gouter cette pâtisserie emblematique de Lisbonne. Ce sont des mini tartes à la crème qui visuellement vont vous rappeler des flans. Elle se deguste avec un soupson de cannelle et du sucre. Il faut noté que la recette des `pasteis` est vieille et est gardé confidentielle. Les pastéis originaux vous les trouverez qu'à la fabirque de bélem. Sur cet si vous y allez apprêtez vous à faire la queue tout le monde en veux. Par contre si vous êtes du genre impatient vous pouvez vous rabattre sur les `les pastéis de nata`. c'est la même recette à quelques ingrédients prêt.
-2. Perdez vous dans les ruelles d'alfama
-3. Almada le cristo rei
-4. bouf local : quesadilla
-5. manger au timeout
-6. prennez l'ascensseur de la santa justa 
-7. prennez le train pour sintra
-8. visitez la cabo de roca
-9. visitez cascais
-
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-### What about videos?
+#### Perdez vous dans les ruelles d'alfama
+Alfama est le quartier le plus vieux de lisbonne. Epargné par le séisme, elle a conservée ses vieux batiments et a su garder son coté traditionnel. Il est construit au bas du `Castelo São Jorge`. Si les rues d'alfama sont aussi étroite c'est à cause d'elle. L'histoire raconte que pour proteger le château contre les invasions ennemies, le quartier et ses rues ont été construit sous forme de labyrinthe je vous laisse deviner pourquoi. Le moyen le plus commun pour se rendre à Alfama c'est le fameux `tram n28`. un peu surcoté à mon goût. Comme tout bon attracation touristique il est toujours bondé. Une chose que la plus part ignore c'est que c'est un tramway comme tous les autres de la ville. Le numéro du tram est affecté aléatoirement. Le `tram 28` n'est qu'un numéro vous pouvez prendre n'importe quel tram jaune c'est comme si vous étiez dans le 28. Si néanmois d'y aller avec je vous conseil de vous lever tôt le matin et faite gaffe au pickpocket. Sinon vous pouvez prendre le bus ou y aller à pieds c'est ce que je vous conseil. Le meilleur moyen d'explorer c'est de se perdre :). 
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
 
-<iframe src="https://player.vimeo.com/video/203710832" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+#### Visitez la statue du cristo rei
 
----
+Je ne vous cache pas qu'elle est inspirée du `Christ rédempteur` de rio. Vous pouvez la comtempler depuis lisbonne. Je pense que vous y rendre en vaut quand même le detour. Elle se trouve de l'autre coté de la tage. Pour vous y rendre il vous faudra traverser le pont du 25 avril. vous avez le choix entre le taxi, ou prendre le ferry qui vous déposera à Almada, de là vous prendrez un bus qui vous déposera devant le sanctuaire. 
 
-## Pretty cool, huh?
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
 
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
+#### Prennez le train pour sintra
+Sintra est une ville situé a 25km de lisbonne, il est desservie regulierement par un train depuis lisbonne. Vous n'aurez pas de probleme pour en trouver un. le trajet vous fera environ 40 minutes. `Le palais nationnal de pena` c'est là notre destination, construit au sommet du mont sintra, c'est un sompteux palais encerclé d'un coeur d'un vaste jardin. Elle est une des attractions princapal de la ville elle incroyablement visitez. Si vous comptez y aller partez tôt le matin et prevoyer toute la journée.
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
+#### Rendez à cabo de roca
+Et si je vous disais que le bout du monde existe me croirez vous ? J'y étais et je vous invite à y aller aussi. Cabo de roca est considéré comme étant le plus le à l'ouest de l'europe. c'est une merveille de la nature, un endroit impressionnant à visitez a tout pris.
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
+<div class="gallery" data-columns="3">
+    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
+</div>

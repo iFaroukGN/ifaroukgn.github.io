@@ -51,7 +51,7 @@ Sintra est une ville situé a 25km de lisbonne, il est desservie regulierement p
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-#### Rendez à cabo de roca
+#### Rendez-vous à cabo de roca
 Et si je vous disais que le bout du monde existe me croirez vous ? J'y étais et je vous invite à y aller aussi. Cabo de roca est considéré comme étant le plus le à l'ouest de l'europe. c'est une merveille de la nature, un endroit impressionnant à visitez a tout pris.
 
 <div class="gallery" data-columns="1">

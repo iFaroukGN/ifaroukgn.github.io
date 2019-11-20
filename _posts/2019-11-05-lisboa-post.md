@@ -18,10 +18,19 @@ Le `lisboa card` est aussi un indispensable, il vous permettra non seulement de 
 
 ## Que faire à lisbonne ?
 
-#### Dégustez les pasteis de belem
+#### Visitez le quartier de belem
+##### • Dégustez les pasteis de belem
 Direction la `Fábrica dos pastéis de Belém` pour gouter cette pâtisserie emblematique de Lisbonne. Ce sont des mini tartes à la crème qui visuellement vont vous rappeler des flans. Elle se deguste avec un soupson de cannelle et du sucre. Il faut noté que la recette des `pasteis` est vieille et est gardé confidentielle. Les pastéis originaux vous les trouverez qu'à la fabirque de bélem. Sur cet si vous y allez apprêtez vous à faire la queue tout le monde en veux. Par contre si vous êtes du genre impatient vous pouvez vous rabattre sur les `les pastéis de nata`. c'est la même recette à quelques ingrédients prêt.
 
+##### • Visitez la tour de belem
+La tour de belem est un monument emblématique de lisbonne. Situé à l'entrée du Tage la tour de Belém est une principale attraction du quartier. Elle constituait un rempart défensif, servait aussi de forteresse, pour défendre et proteger le monastère des Hiéronymites situé à proximité. `Je vous invite d'ailleurs a visiter d'ailleur, j'ai pas pu le faire moi. à l'intérieur vous pouvez voir la tombe de vasco de gama l'un des grand explorateur portugais`. Passez y pendant en début soirée, la tour présente une coloration dorée particulière due au brique de calcaires ayant servie à sa construction.
 
+![](/images/lisboa-post/IMG_2645.jpg)
+
+##### • Le momument des découvertes
+Monument représentant un navire aux voiles gonflées par le vent. Il rend hommage aux grands explorateurs portugais menés par `Henri le Navigateur` qui, contrairement à son nom n'en est pas un mais plutôt un des grands financiers des voyages de découverte.
+
+![](/images/lisboa-post/IMG_2509.jpg)
 
 #### Perdez vous dans les ruelles d'alfama
 Alfama est le quartier le plus vieux de lisbonne. Epargné par le séisme, elle a conservée ses vieux batiments et a su garder son coté traditionnel. Il est construit au bas du `Castelo São Jorge`. Si les rues d'alfama sont aussi étroite c'est à cause d'elle. L'histoire raconte que pour proteger le château contre les invasions ennemies, le quartier et ses rues ont été construit sous forme de labyrinthe je vous laisse deviner pourquoi. Le moyen le plus commun pour se rendre à Alfama c'est le fameux `tram n28`. un peu surcoté à mon goût. Comme tout bon attracation touristique il est toujours bondé. Une chose que la plus part ignore c'est que c'est un tramway comme tous les autres de la ville. Le numéro du tram est affecté aléatoirement. Le `tram 28` n'est qu'un numéro vous pouvez prendre n'importe quel tram jaune c'est comme si vous étiez dans le 28. Si néanmois d'y aller avec je vous conseil de vous lever tôt le matin et faite gaffe au pickpocket. Sinon vous pouvez prendre le bus ou y aller à pieds c'est ce que je vous conseil. Le meilleur moyen d'explorer c'est de se perdre :). 
@@ -52,6 +61,14 @@ Sintra est une ville situé a 25km de lisbonne, il est desservie regulierement p
 Et si je vous disais que le bout du monde existe me croirez vous ? J'y étais et je vous invite à y aller aussi. Cabo de roca est considéré comme étant le plus le à l'ouest de l'europe. c'est une merveille de la nature, un endroit impressionnant à visitez a tout pris.
 
 ![](/images/lisboa-post/IMG_4193.jpg)
+
+votre sejour a lisbonne prends fin, je n'ai pas citer tout ce qu'il faut faire a lisbonne parce que c'est noir de monde. si vous êtes de la team leve tôt vous pouvez par exemple prendre l'ascenseur de la `santa justa` vous balader dans la `baixa`. Regarder le soleil se coucher depuis la plage de la  `praça de comercio`.
+et pourquoi pas finir votre viste à `l'aquarium de lisbonne`.
+
+L'heure de manger je vous conseil `la mercado da ribera` connu aussi sous la dénomination `timeout`. pour y manger de nourriture locale lisbonne etant une bordé par la mer sa nourriture est beaucoup basé sur les fruits de mer. Un de mes coups de coeur fut `le baccalahu a bràs`plat traditionnelle lisboete à base de morue. Un restaurant que je vous conseil vivement c'est le `Chamines do palacio` voici l'adresse complete: Largo São Domingos 11, 1150-320 Lisboa, Portugal. Je vous previent il n'est pas facile a trouver mais vous perdre c'est le meilleur moyen de decrouvir :) sans compter que la recompense à la clé sera un des meilleurs repas de votre séjour. je sur vend peut-être mais c'est ce que j'ai resenti :D. vous m'en donnerez des nouvelles.
+
+Farouk sans frontière.
+
 
 <div class="gallery" data-columns="3">
     <img src="/images/demo/demo-portrait.jpg">

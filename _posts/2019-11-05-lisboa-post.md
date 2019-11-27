@@ -12,7 +12,7 @@ excerpt: La capitale portuguaise est une destination parfaite pour faire un city
 Lisbonne est une des plus vieille ville de l'europe, elle possède une histoire particulière qui passe de la tristesse à la renaissance. 
 Tristesse parce qu'elle à failli être rayée de la carte par une succession de catastrophes naturelles, je vous parle : d'un séisme, qui a entrainé un tsunami et pour couronner le tout des incendies. Et oui l'eau la terre et le feu ont detruit une grande partie de cette ville on se croirait dans `avatar`. Les lisboetes (si vous en croisez) vous parleront de toute la malchance qu'ils ont eu dans leur histoire. Mais tel un phénix elle a su renêtre de ses cendres, la ville à été reconstruite par un homme que les lisboetes admire tous `marquis de pombal` (Merci) vous verrez plein de status dans la ville à son éffigie. Elle est néanmoins aujourd'hui une capitale animée et touristique, dotée d'une riche histoire et d'un climat agréable.
 
-## Avant de partir lisbonne
+## Préparez vôtre voyage
 Prévoir ou loger évidemment, je vous conseil le quartier de `bélem`, plein de site touristique à proximité, bien déservi par les transports, vous pourrez facilement d'un point à l'autre.
 Le `lisboa card` est aussi un indispensable, il vous permettra non seulement de prendre les transport en commun, mais aussi de visiter des musées de la ville et entrer gratuitement dans certains lieux touristiques. Vous pouvez en prendre pour une durée de 24h à 72h. Maintenant qu'on y est que fait on ? 
 
@@ -42,15 +42,14 @@ Alfama est le quartier le plus vieux de lisbonne. Epargné par le séisme, elle 
 
 #### Visitez la statue du cristo rei
 
-Je ne vous cache pas qu'elle est inspirée du `Christ rédempteur` de rio. Vous pouvez la comtempler depuis lisbonne. Je pense que vous y rendre en vaut quand même le detour. Elle se trouve de l'autre coté de la tage. Pour vous y rendre il vous faudra traverser le pont du 25 avril. vous avez le choix entre le taxi, ou prendre le ferry qui vous déposera à Almada, de là vous prendrez un bus qui vous déposera devant le sanctuaire. 
+Je ne vous cache pas qu'elle est inspirée du `Christ rédempteur` de rio. Même si vous la verrez de loin depuis lisbonne, vous y rendre en vaut quand même le detour. Elle se trouve de l'autre coté de la tage. Pour vous y rendre il vous faudra traverser le pont du `25 avril`. Vous aurez le choix entre le taxi, ou prendre le ferry qui vous déposera à Almada, de là vous prendrez un bus qui vous déposera devant le sanctuaire. 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/lisboa-post/IMG_2877.jpg">
 	<img src="/images/lisboa-post/IMG_2913.jpg">
 </div>
 
 #### Prennez le train pour sintra
-Sintra est une ville situé a 25km de lisbonne, il est desservie regulierement par un train depuis lisbonne. Vous n'aurez pas de probleme pour en trouver un. le trajet vous fera environ 40 minutes. `Le palais nationnal de pena` c'est là notre destination, construit au sommet du mont sintra, c'est un sompteux palais encerclé d'un coeur d'un vaste jardin. Elle est une des attractions princapal de la ville elle incroyablement visitez. Si vous comptez y aller partez tôt le matin et prevoyer toute la journée.
+Elle se situe à une vingtaine de kilomètres de lisbonne. Régulierement desservie  par des trains depuis lisbonne. Vous n'aurez pas de probleme pour en trouver un. Le trajet vous prendra environ 40 minutes. Notre destination c'est `Le palais nationnal de pena`. Construit au sommet du mont sintra, c'est un sompteux palais encerclé d'un vaste jardin. Elle est une des attractions principal de la ville et donc, incroyablement visitez. Je vous invite à y aller tôt (encore) le matin sinon prevoyer toute la journée.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/lisboa-post/IMG_4086.jpg">
@@ -58,17 +57,20 @@ Sintra est une ville situé a 25km de lisbonne, il est desservie regulierement p
 </div>
 
 #### Rendez-vous à cabo de roca
-Et si je vous disais que le bout du monde existe me croirez vous ? J'y étais et je vous invite à y aller aussi. Cabo de roca est considéré comme étant le plus le à l'ouest de l'europe. c'est une merveille de la nature, un endroit impressionnant à visitez a tout pris.
+Et si je vous disais que le bout du monde existe me croirez vous ? Rendez vous à Cabo de roca une merveille de la nature, un endroit impressionnant que je vous invite à visiter à tout pris. Il est considéré comme étant le plus le à l'ouest de l'europe. Comme vous le lirez sur un écriteau sur place l'explique "`Aqui, onde a terra se acaba e o mar começa...`" comprennez "`
+Ici, où la terre se termine et la mer commence...`", vous ne verrez que du bleu et des nuages.
 
 ![](/images/lisboa-post/IMG_4193.jpg)
 
-votre sejour a lisbonne prends fin, je n'ai pas citer tout ce qu'il faut faire a lisbonne parce que c'est noir de monde. si vous êtes de la team leve tôt vous pouvez par exemple prendre l'ascenseur de la `santa justa` vous balader dans la `baixa`. Regarder le soleil se coucher depuis la plage de la  `praça de comercio`.
-et pourquoi pas finir votre viste à `l'aquarium de lisbonne`.
+Je n'ai pas citer tout ce qu'il y a faire à lisbonne parce que c'est noir de monde. Si vous êtes de la team leve tôt vous pouvez par exemple prendre l'ascenseur de la `santa justa`. Je vous balader dans la `baixa`. Regarder le soleil se coucher depuis la plage de la  `praça de comercio` c'est moins sexy que depuis un mirador mais ça à l'avantage d'être animé.
+Si vous avez du temps dans vôtre vous pouvez aussi vous rendre dans le quartier des nations: c'est un quartier moderne avec des architectures impressionnantes, vous pouvez aussi y visitez `L'océanarium de lisbonne` qui est le deuxième plus grand aquarium d’Europe vous pouvez y voir une centaine d'espèce différentes.
 
-L'heure de manger je vous conseil `la mercado da ribera` connu aussi sous la dénomination `timeout`. pour y manger de nourriture locale lisbonne etant une bordé par la mer sa nourriture est beaucoup basé sur les fruits de mer. Un de mes coups de coeur fut `le baccalahu a bràs`plat traditionnelle lisboete à base de morue. Un restaurant que je vous conseil vivement c'est le `Chamines do palacio` voici l'adresse complete: Largo São Domingos 11, 1150-320 Lisboa, Portugal. Je vous previent il n'est pas facile a trouver mais vous perdre c'est le meilleur moyen de decrouvir :) sans compter que la recompense à la clé sera un des meilleurs repas de votre séjour. je sur vend peut-être mais c'est ce que j'ai resenti :D. vous m'en donnerez des nouvelles.
+## Ou manger ?
+Un de mes restaurants coups de coeur au cours de mon sejour fut `Chamines do palacio` dont voici l'adresse complete: `Largo São Domingos 11, 1150-320 Lisboa, Portugal`. C'est un ancien palace qui a été transformé en restaurant. Vous y mangerai des plats typique lisboete et préparé avec des produits locaux.
+
+`la mercado da ribera` connu aussi sous la dénomination `timeout` vous y trouverez toute sorte de cuisine du local, au japonnais en passant par le chinois et l'italien. C'est remplie de touriste et quoi de mieux que de manger et de discuter voyage avec inconnu et vous faire des idées sur sont prochain destination ?  
 
 Farouk sans frontière.
-
 
 <div class="gallery" data-columns="3">
     <img src="/images/demo/demo-portrait.jpg">

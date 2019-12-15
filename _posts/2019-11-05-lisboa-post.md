@@ -60,6 +60,8 @@ Et si je vous disais que le bout du monde existé me croirez-vous ? Rendez-vous 
 
 ![](/images/lisboa-post/IMG_4193.jpg)
 
+Vous pouvez aussi visiter sintra, le palais de pena et cabo de roca dans la même journée avec un guide qui vous y amène en mini-van. [reserver votre place ici](https://www.getyourguide.com/lisbon-l42/sintra-cabo-da-roca-and-cascais-tour-t72607/?partner_id=BC8WQC0&utm_medium=online_publisher&utm_source=gnandifarouk%40gmail.com&placement=content-middle&cmp=idv-lisboa-post) si cela vous intérresse.
+
 ## Ou manger ?
 ##### • Fábrica dos pastéis de Belém
 Direction la `Fábrica dos pastéis de Belém` pour gouter cette pâtisserie emblématique de Lisbonne. Ce sont des mini-tartes à la crème qui visuellement vont vous rappeler des flans. Elle se déguste avec un soupçon de cannelle et du sucre. Il faut noté que la recette des `pasteis` est très vieille et est gardée confidentielle. Les pastéis originaux, vous les trouverez qu'à la fabirque de bélem. Sur ce si vous y allez apprêtez vous à faire la queue, car tout le monde en veux. Par contre si vous êtes du genre impatient vous pouvez vous rabattre sur les `les pastéis de nata`. c'est la même recette à quelques ingrédients prêt.

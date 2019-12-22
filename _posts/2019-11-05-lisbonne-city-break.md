@@ -7,7 +7,7 @@ excerpt: La capitale portugaise est une destination parfaite pour faire un city 
 
 ![](/images/lisboa-post/IMG_2493.jpg)
 
-## Il était une fois Lisbonne
+# Il était une fois Lisbonne
 
 Lisbonne est une des plus vieilles villes de l'Europe, elle possède une histoire particulière qui passe par tristesse et renaissance. Tristesse parce qu'elle a failli être rayée de la carte par une succession de catastrophes. D'un séisme, ayant entrainé un tsunami et des incendies pour tout couronner et ceux en dans la même journée. Et oui `l'eau`, `la terre` et `le feu` ont détruit la ville. (On se croirait dans `avatar`). Les Lisboètes (si vous en croisez) vous en parleront mieux que moi. Mais tel un phénix elle a su renaître de ses cendres, la ville a été reconstruite par un homme admiré des Lisboètes: le `Marquis de pombal` (Merci). Malgré son passé assez triste, cette renaissance a donné vie à une ville idéale pour le tourisme. Dotée de cultures, d'histoire, d'une excellente gastronomie et d'un climat agréable Lisbonne, je ne vous cache pas que vous allez adorer Lisbonne.
 

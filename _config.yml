@@ -1,8 +1,8 @@
 site: "Journal d'un voyageur"
 url: "https://journaldunvoyageur.fr"
 title: "Journal d'un voyageur"
-tagline: "Planifier votre voyage à travers le journal d'un voyageur"
-description: ""
+tagline: "Découvrez le monde à travers le journal d'un voyageur."
+description: "Découvrez le monde à travers le journal d'un voyageur."
 collections:
   pages:
     output: true

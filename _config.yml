@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -54,5 +54,5 @@ plugins:
   - jekyll-seo-tag
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
   

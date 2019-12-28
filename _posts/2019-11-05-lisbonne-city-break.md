@@ -25,40 +25,46 @@ Le [lisboa card](https://www.getyourguide.com/lisbon-l42/lisboa-card-24h-48h-72h
 ##### • La tour de belem
 Monument emblématique de Lisbonne, elle se situe à l'entrée du Tage. Elle constituait un rempart défensif et de forteresse pour protéger le monastère des Hiéronymites situé à proximité. `Je vous invite d'ailleurs à visiter d'ailleur. À l'intérieur de celle-ci, se trouve la tombe de vasco de gama l'un des plus grands explorateurs portugais`. Le moment propice pour visite la tour. c'est le début soirée, la tour présente une coloration dorée particulière due aux briques de calcaires ayant servi à sa construction.
 
-![](/images/lisboa-post/IMG_2645.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/lisboa-post/IMG_2645.jpg" alt="La tour de belem dans le quartier de belem">
+</div>
 
 ##### • Le momument des découvertes
 C'est un monument qui représente un navire aux voiles gonflées par le vent. Il rend hommage aux grands explorateurs portugais menés par `Henri le navigateur` qui, contrairement à son nom n'en est pas un mais plutôt un des grands financiers des voyages de découverte.
 
-![](/images/lisboa-post/IMG_2509.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/lisboa-post/IMG_2509.jpg" alt="Le momument des découvertes dans le quartier de belem">
+</div>
 
 #### Perdez vous dans les ruelles d'alfama
 Alfama est le quartier le plus vieux de Lisbonne. Épargnée par le séisme, elle a conservé ses vieux bâtiments et a su garder son côté traditionnel. Il est construit au bas du `Castelo Sao Jorge`. L'histoire raconte que pour protéger le château contre les invasions ennemies, le quartier et ses rues ont été construit sous forme de labyrinthe d'où l'étroitesse des rues. Le but était de séparer les énièmes afin de mieux les attaquer. Le moyen le plus connu pour se rendre à Alfama est par le fameux `tram n28`. Un peu surcoté à mon goût. Comme toute bonne attraction touristique il est toujours bondé. Une chose que la plupart des touristes ignorent c'est que c'est un tramway comme tous les autres de la ville. Le numéro du tram est affecté aléatoirement. Le `tram n28` n'est qu'un numéro, vous pouvez prendre n'importe quel tram jaune c'est comme si vous étiez dans le 28. Si néanmoins d'y aller avec je vous conseille de vous lever tôt le matin et faite aussi gaffe au pickpocket. Sinon vous pouvez prendre le bus où y aller à pied c'est ce que je vous conseille. Le meilleur moyen d'explorer c'est de se perdre, alors perdez-vous dans ces ruelles vous ferez de belles découvertes. :). 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/lisboa-post/IMG_2458.jpg">
-	<img src="/images/lisboa-post/IMG_3342.jpg">
+	<img src="/images/lisboa-post/IMG_2458.jpg" alt="Lisbonne et ses trams jaune">
+	<img src="/images/lisboa-post/IMG_3342.jpg" alt="Lisbonne et ses trams jaune">
 </div>
 
 #### La statue du cristo rei
 Elle vous dira sûrement quelque chose, c'est tout à fait normal, elle est inspirée du `Christ rédempteur` de Rio. Même si vous la verrez de loin depuis Lisbonne, vous y rendre en vaut quand même le détour. Elle se trouve de l'autre côté de la Tage. Pour vous y rendre il vous faudra traverser le pont du `25 avril`. Vous aurez le choix entre le taxi, où prendre le ferry qui vous déposera à Almada, de là vous prendrez un bus qui vous déposera devant le sanctuaire. 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/lisboa-post/IMG_2913.jpg">
+	<img src="/images/lisboa-post/IMG_2913.jpg" alt="Vue de lisbonne depuis la statue du cristo rei">
 </div>
 
 #### Prenez le train pour Sintra
 Elle se situe à une vingtaine de kilomètres de Lisbonne. Régulièrement desservie  par des trains depuis Lisbonne. Vous n'aurez pas de probleme pour en trouver un. Le trajet vous prendra environ 40 minutes. Notre destination c'est `Le palais nationnal de pena`. Construit au sommet du mont Sintra, c'est un sompteux palais encerclé d'un vaste jardin. Principal point d'interêt de la ville elle est incroyablement visitez. Je vous invite à vous y rendre tôt si vous voulez pas y passer toute la journée sinon prevoyer toute la journée.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/lisboa-post/IMG_4086.jpg">
-	<img src="/images/lisboa-post/IMG_4171.jpg">
+	<img src="/images/lisboa-post/IMG_4086.jpg" alt="Le palais nationnal de pena à sintra">
+	<img src="/images/lisboa-post/IMG_4171.jpg" alt="Le palais nationnal de pena à sintra">
 </div>
 
 #### Rendez-vous à cabo de roca
 Et si je vous disais que le bout du monde existé me croirez-vous ? Rendez-vous à Cabo de Roca une merveille de la nature, un endroit impressionnant, à visiter à tout prix. Il est considéré comme étant le point le plus à l'ouest de l'Europe. Comme vous le lirez sur un écriteau sur place qui l'explique si vous lisez portugais "`Qui, onde à terra se cacaba e o mar começa...`" sinon en français "`Ici, où la terre se termine et la mer commence...`". Passez-y quelques instants, levez la téter vers l'horizon et admirez-vous ne verrez que du bleu et des nuages, profiter de la vue elle magnifique vous l'aurez bien longtemps en mémoire celle-là. 
 
-![](/images/lisboa-post/IMG_4193.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/lisboa-post/IMG_4193.jpg" alt="cabo de roca">
+</div>
 
 Vous pouvez aussi visiter sintra, le palais de pena et cabo de roca dans la même journée avec un guide qui vous y amène en mini-van. [Réserver votre place ici](https://www.getyourguide.com/lisbon-l42/sintra-cabo-da-roca-and-cascais-tour-t72607/?partner_id=BC8WQC0&utm_medium=online_publisher&utm_source=gnandifarouk%40gmail.com&placement=content-middle&cmp=idv-lisboa-post) si cela vous intérresse.
 

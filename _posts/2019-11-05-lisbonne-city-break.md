@@ -1,7 +1,6 @@
 ---
 title: 'City-breaks à Lisbonne'
 date: 2019-11-05 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
 excerpt: La capitale portugaise est une destination parfaite pour faire un city break. Vous avez marre de votre routine et voulez découvrir une nouvelle ville, culture au cours d'un séjour relativement court ? prenez vos clics et vos clacs... direction Lisbonne :).
 ---
 

@@ -5,7 +5,7 @@ featured_image: '/images/lisboa-post/IMG_2493.jpg'
 excerpt: La capitale portugaise est une destination parfaite pour faire un city break. Vous avez marre de votre routine et voulez découvrir une nouvelle ville, culture au cours d'un séjour relativement court ? prenez vos clics et vos clacs... direction Lisbonne :).
 ---
 
-<!-- ![](/images/lisboa-post/IMG_2493.jpg) -->
+![](/images/lisboa-post/IMG_2493.jpg)
 
 # Il était une fois Lisbonne
 

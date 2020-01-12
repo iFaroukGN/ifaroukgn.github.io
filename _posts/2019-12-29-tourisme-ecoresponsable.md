@@ -22,4 +22,4 @@ Noonn je sais à quoi vous pensez : D. ce n'est pas le moment de devenir vé gan
 
 Vous avez d'autres idées à partager ? venez on en parle sur [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/tourisme-ecoresponsable) sur twitter :)
 
-Farouk sans frontières.
+Farouk sans frontière.

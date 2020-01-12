@@ -1,6 +1,7 @@
 ---
 title: 'Et si en 2020 on voyageait écolo'
 date: 2019-12-29 00:00:00
+featured_image: '/images/demo/demo-landscape.jpg'
 excerpt: Être touriste au 2020, avec Greta Thumberg dans les parages c'est un peu chaud non :) ? Voyager c'est bien, mais si on ne prend pas soin de notre planète on risque d'empêcher les générations futures à en faire autant. Je partage ici avec vous quelques trucs à quoi faire penser pendant votre voyage afin de réduire votre impact sur l'Environnement et faire un tourisme écoresponsable :).
 ---
 

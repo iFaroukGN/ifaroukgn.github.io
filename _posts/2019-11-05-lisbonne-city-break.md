@@ -79,6 +79,6 @@ Mon restaurant coups de coeur au cours de mon séjour fut `Chamines do palacio` 
 Ici prend fin mon article, je n'ai pas cité tout ce qu'il y a faire à Lisbonne, juste ce que je pense en valoir la peine. Si vous êtes de la team leve tôt vous pouvez par exemple prendre l'ascenseur de la `santa justa` et avoir une vue panoramique sur toute la ville. Vous balader dans la `baixa`. Regarder le soleil se coucher depuis la plage de la  `praça de comercio` c'est moins sexy que depuis un mirador mais ça à l'avantage d'être animé :).
 S'il vous reste encore du temps dans vôtre voyage vous pouvez aussi vous rendre dans le quartier des nations: c'est un quartier moderne avec des architectures impressionnantes, vous pouvez aussi y visiter `L'océanarium de Lisbonne` qui est le deuxième plus grand aquarium d’Europe vous pouvez y voir une centaine d'espèces différentes.
 
-J'espère que vous passerez un bon sejour :).  
+J'espère que vous passerez un bon sejour :) et que vous m'en parlerez sur [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/lisbonne-city-break) sur twitter.
 
 Farouk sans frontière.

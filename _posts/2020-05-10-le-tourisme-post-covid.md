@@ -1,6 +1,6 @@
 ---
 title: Ma vision du tourisme post covid
-date: 2020-05-09 00:00:00
+date: 2020-05-10 00:00:00
 featured_image: 'images/post-covid-tourism/airplane.jpg'
 excerpt: "Certes nous voyagerions toujours mais autrement. Entre peurs de tousser en public et la la distanciation sociale, ça ne sera plus pareil."
 ---

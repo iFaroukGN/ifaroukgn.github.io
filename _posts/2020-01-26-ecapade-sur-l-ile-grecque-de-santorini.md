@@ -2,7 +2,7 @@
 title: Escapade sur l'île grecque de santorini
 date: 2020-03-21 00:00:00
 featured_image: '/images/santorini/oia_sunset_before.jpg'
-excerpt: Kalimera (bonjour en grec) cher.e.s visiteur.e.s, vous êtes à la recherche d'un decors paradisiaque pour vos vacances? Santorini is the place
+excerpt: Kalimera (bonjour en grec) cher·e·s visiteur·e·s, vous êtes à la recherche d'un decors paradisiaque pour vos vacances? Santorini is the place
 ---
 
 ![](/images/santorini/oia_sunset_before.jpg)

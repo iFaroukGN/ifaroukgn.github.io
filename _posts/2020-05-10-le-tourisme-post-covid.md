@@ -1,7 +1,7 @@
 ---
 title: Ma vision du tourisme post covid
 date: 2020-05-10 00:00:00
-featured_image: 'images/post-covid-tourism/airplane.jpg'
+featured_image: '/images/post-covid-tourism/airplane.jpg'
 excerpt: "Certes nous voyagerions toujours mais autrement. Entre peurs de tousser en public et la la distanciation sociale, ça ne sera plus pareil."
 ---
 Cette décénnie aura connu un début improbable, longtemps nous nous en souviendrons. Pas seulement parce que kobe nous a quitté RIP, mais aussi parce que nous vivons une pandémie dont personne ne peut prédire la fin. 

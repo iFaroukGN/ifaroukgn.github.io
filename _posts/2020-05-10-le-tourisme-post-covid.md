@@ -20,7 +20,7 @@ Cette décénnie aura connu un début improbable, longtemps nous nous en souvien
 <div class="gallery" data-columns="1">
 	<img src="images/post-covid-tourism/what_now.jpg" alt="Tourisme post covid 19 et après?">
 </div>
-Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Crédit photo [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Penserions-nous tourisme et environement?
  Le tourisme est une source de pollutions importante, la période Covid nous aura permis de réduire considérablement l'émission de gaz à effet de serre merci au confinement. C'est un fait notre hypermobilité a accéléré la propagation du virus, si on se déplaçait moins le virus n'aurait sûrement pas été pandémique. Des avions qui cloués au sol et les autres moyens de transport réduit, nous avions fait plus de bien à la planète en 2 mois que ne nous n'en ferions guère plus dans les jours à venir. Prendrions-nous conscience de cela ou repartirions-nous sur des chapeaux de roues à l'autre bout du monde en avion pour se distinguer, au profit d'un train dans nos régions? Penserions-nous plus à notre bilan carbone quand nous planifierions nos voyages? Quoi qu'il en soit il nous faudra faire évoluer nos habitudes.
@@ -50,6 +50,6 @@ Croiser moins de personnes sera en vogue éviter les aéroports bondés ne nous 
 ## Quand sera-t-il de nos valises? 
 Nous allons surement repenser les effets dans nos valises et faire une place au gel  hydroalcoolique, aux masques ou meme à des lingettes désinfectantes. Nous ne trouverons plus bizarre ceux qui feront leur naomie campbell dans les avions (référence à [cette vidéo](https://www.youtube.com/watch?v=b-U_jT9qWvs) rendez vous à 2:28). Peut-être qu'on regardera plutôt bizarrement les gens qui ne le feront pas. Songez-y, ne soyez pas cette personne :D 
 
-Et vous? que changeriez vous dans votre routine de voyage? partagez avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/le-tourisme-post-covid). Si vous pensez à réduire votre impact sur l'environement pendant vos voyages cet article vous donnera des idées: [tourisme écoresponsable](journaldunvoyageur.fr/tourisme-ecoresponsable)
+Et vous? que changeriez vous dans votre routine de voyage? partagez avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/le-tourisme-post-covid). Si vous pensez à réduire votre impact sur l'environement pendant vos voyages cet article vous donnera des idées: [tourisme écoresponsable](/tourisme-ecoresponsable)
 
 Farouk sans frontière.

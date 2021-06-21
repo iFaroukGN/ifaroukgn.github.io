@@ -47,6 +47,8 @@ Pas que ce qui est écrit dans votre guide.
 ## Soyez dans le moment présent
 
 Vous pouvez attendre avec impatience l'arrivée à la destination que vous avez choisie, mais ne laissez pas cette anticipation éclipser le plaisir du voyage.
+
+Vous avez d'autre idée pour faire du slow tourisme ? venez on en parle [ici](journaldunvoyageur.fr/slow-travel-slow-tourisme)
 	
 	
 	

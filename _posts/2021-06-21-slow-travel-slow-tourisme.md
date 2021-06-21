@@ -1,8 +1,8 @@
 ---
-title: Le slow tourisme ou comment voyagez lentement pour profitez mieux
+title: Le slow tourisme aka le travel and chill
 date: 2021-06-21 00:00:00
 featured_image: '/images/slow-travel/slow-travel-slow-tourism-slow-life.jpg'
-excerpt: "le but du slow tourisme c'est de voyager lentement, c'est d'apprécier sa destination. Pourquoi ne pas prendre le temps de marcher ? pourquoi pas explorer à velo ?"
+excerpt: "Le but du slow tourisme, c'est de voyager lentement, c'est d'apprécier sa destination, de se relaxer, de profiter, d'être chill logique... C'est les vacances."
 ---
 
 ![](/images/slow-travel/slow-travel-slow-tourism-slow-life.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Destianation Croatie 🇭🇷, visite depuis la ville de Zadar
+title: Destination Croatie 🇭🇷, visite depuis la ville de Zadar
 date: 2021-07-04 00:00:00
 featured_image: '/images/croatia-post/croatia_croatie.jpg'
 excerpt: "Ah ! Que la Terre est belle crie une voix, là-haut. Ah ! Que la Terre est belle sous le beau soleil chaud. Elle est encore plus belle bougonne le touriste Croate."
@@ -119,4 +119,4 @@ Ah, que la Terre est belle !
 Ah, que la Terre est belle, sous le soleil Croate ! 
 Elle est pas mal, mais quand même belle, vue d'en haut comme vue d'en bas, confirme la voix là-haut.
 
-Vous voulez partager votre expérience croate avec l'hirondelle (la fameuse voix d'en haut) et ceux d'en bas ? Venez en parler avec la twittosphère [ici](journaldunvoyageur.fr/destination-croatie).
+Vous voulez partager votre expérience croate avec l'hirondelle (la fameuse voix d'en haut) et ceux d'en bas ? Venez en parler avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/destination-croatie).

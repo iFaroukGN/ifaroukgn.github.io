@@ -71,4 +71,4 @@ Pendant cette période, plusieurs animations vous sont proposées parmi lesquell
 
 Bon à savoir: pouvez visiter les autres villages du Pays de Colmar. Pas d'inquiétude si vous n'avez pas de voiture. Des navettes de bus vous permettront de vous déplacer de village en village.
 
-Si tel est le cas, et que vous faites la tournez des villages du Grand Pays de Colmar, partagez nous votre expérience ici sur [la twittosphère](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/colmar-ville-de-noel-et-ses-marches). 
+Si tel est le cas, et que vous faites la tournez des villages du Grand Pays de Colmar, partagez nous votre expérience ici sur [la twittosphère](https://mobile.twitter.com/search?q=tweetd1voyageur). 

@@ -49,4 +49,4 @@ Pour finir, je dirai
 ## Soyez dans le moment présent 
 Vous pouvez attendre avec impatience l’arrivée à la destination que vous avez choisie, mais ne laissez pas cette anticipation éclipser le plaisir du voyage.
 
-Vous avez d’autres idées pour faire du slow tourisme ? Venez en parler avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/slow-travel).
+Vous avez d’autres idées pour faire du slow tourisme ? Venez en parler avec la twittosphère [ici](https://mobile.twitter.com/search?q=tweetd1voyageur).

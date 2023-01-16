@@ -150,4 +150,4 @@ Je vous laisse en juger par vous-même.
 </div>
 
 Et vous ? que vous évoque la bretagne? 
-Partagez votre avis avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/la-presquile-de-crozon-dans-le-breizh).
+Partagez votre avis avec la twittosphère [ici](https://mobile.twitter.com/search?q=tweetd1voyageur).

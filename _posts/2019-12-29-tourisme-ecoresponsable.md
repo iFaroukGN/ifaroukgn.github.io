@@ -22,6 +22,6 @@ Jettez le moins de déchets possible dans la nature, surtout si vous visitez un 
 ## L'alimentation
 Noonn je sais à quoi vous pensez : D. ce n'est pas le moment de devenir vé gan. Par contre, si vous cuisinez ou si vous avez besoin de faire des courses, rendez-vous au marché ou chez un artisan local, revenez-y  avec dès les fruits et légumes frais de producteurs locaux. Vous y trouverez pas que des fruits et légumes mais aussi ramèneraient surement quelques souvenirs  Vous favoriserez non seulement l'économie locale mais aussi, vous évitez les milliers d'emballages utilisés dans les supermarchés pour emballer 5 bananes. La planète et les agriculteurs locaux vous disent merci.
 
-Vous avez d'autres idées à partager ? venez on en parle sur [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/tourisme-ecoresponsable) sur twitter :)
+Vous avez d'autres idées à partager ? venez on en parle sur [ici](https://mobile.twitter.com/search?q=tweetd1voyageur) sur twitter :)
 
 Farouk sans frontière.

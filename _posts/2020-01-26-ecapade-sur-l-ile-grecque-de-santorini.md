@@ -59,6 +59,6 @@ Pour aller au `black sand beach` prenez le bus en direction de Perissa, et voil�
 	<img src="/images/santorini/black_beach_sunset.jpg" alt="black beach sunset">
 </div>
 
-J'espère que vous passerez un bon séjour :). Après ou pendant votre séjour venez on en parle [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/ecapade-sur-l-ile-grecque-de-santorini) sur twitter.
+J'espère que vous passerez un bon séjour :). Après ou pendant votre séjour venez on en parle [ici](https://mobile.twitter.com/search?q=tweetd1voyageur) sur twitter.
 
 Farouk sans frontière.

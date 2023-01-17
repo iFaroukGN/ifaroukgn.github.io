@@ -119,4 +119,4 @@ Ah, que la Terre est belle !
 Ah, que la Terre est belle, sous le soleil Croate ! 
 Elle est pas mal, mais quand même belle, vue d'en haut comme vue d'en bas, confirme la voix là-haut.
 
-Vous voulez partager votre expérience croate avec l'hirondelle (la fameuse voix d'en haut) et ceux d'en bas ? Venez en parler avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/destination-croatie).
+Vous voulez partager votre expérience croate avec l'hirondelle (la fameuse voix d'en haut) et ceux d'en bas ? Venez en parler avec la twittosphère [ici](https://mobile.twitter.com/search?q=tweetd1voyageur).

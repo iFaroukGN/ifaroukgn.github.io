@@ -1,5 +1,5 @@
 ---
-title: La presqu'ile de Crozon, l'échappée belle en Bretagne.
+title: La presqu'île de Crozon, l'échappée belle en Bretagne.
 date: 2022-02-07 00:00:00
 featured_image: '/images/crozon-post/ronan-potier-dwhup7sl70g-unsplash.jpg'
 excerpt: "Si je vous dis « la Bretagne est connue pour…. » ? 
@@ -150,4 +150,4 @@ Je vous laisse en juger par vous-même.
 </div>
 
 Et vous ? que vous évoque la bretagne? 
-Partagez votre avis avec la twittosphère [ici](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/la-presquile-de-crozon-dans-le-breizh).
+Partagez votre avis avec la twittosphère [ici](https://mobile.twitter.com/search?q=tweetd1voyageur).

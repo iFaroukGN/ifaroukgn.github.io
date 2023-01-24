@@ -1,5 +1,5 @@
 ---
-title: Où partir en 2023 ?
+title: Quel pays visiter en 2023 ?
 date: 2023-01-17 00:00:00
 featured_image: '/images/where-to-go-2023/francesca-tirico-9G9vxsMzi18-unsplash.jpg'
 excerpt: "Nouvelle année, Nouvelle résolution, Nouvelle destination. Où partir en 2023 voici 10 destinations qui peuvent vous donner des idées."
@@ -11,7 +11,7 @@ Crédit photo <a href="https://unsplash.com/@fra99?utm_source=unsplash&utm_medi
 
 Nouvelle année, nouvelle résolution : [adopter un tourisme écoresponsable](/tourisme-ecoresponsable) ou [le slow tourisme](/slow-travel-slow-tourisme) ?
 
-Nouvelle destination ? Vous vous demandez où partir en 2023 ? 
+Nouvelle destination ? Vous vous demandez où partir en 2023 ? Quels sont les pays à visiter ?
 
 Voici 10 destinations qui peuvent vous donner des idées.
 

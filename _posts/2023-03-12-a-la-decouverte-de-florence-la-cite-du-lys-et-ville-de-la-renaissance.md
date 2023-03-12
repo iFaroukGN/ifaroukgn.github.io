@@ -15,10 +15,10 @@ Située au cœur de [la Toscane](https://fr.wikipedia.org/wiki/Toscane), Florenc
 
 Aussi connu sous le nom de la cathédrale Santa Maria del Fiore, elle est l'attraction principale de la ville de Florence. Avec sa façade en marbre blanc, vert et rose, ainsi que sa grande coupole construite en terre cuite rouge, elle domine le centre de Florence. Le contraste créez y est magnifique. Des milliers de visiteurs sont attiré par sa magnificience. Vous pouvez monter au sommet du dôme pour admirer une vue imprenable sur la ville. Vous pouvez aussi visiter chacun des batiments qui la compose : 
 
-- La cathédrale elle-même : La cathédrale, également connue sous le nom de Duomo di Firenze, est le bâtiment principal de la cathédrale Santa Maria del Fiore.
-- Le baptistère : C'est un bâtiment octogonal situé en face de la cathédrale. Vous y verrez La "Porte du Paradis" et oui La "Porte du Paradis" un ensemble de portes en bronze situé à l'entrée du baptistère réalisées par [Lorenzo Ghiberti](https://fr.wikipedia.org/wiki/Lorenzo_Ghiberti).
-- Le campanile : Le campanile, également connu sous le nom de clocher, est une tour située à côté de la cathédrale. Célèbre pour ses sculptures en relief et pour offrir une vue panoramique sur la ville de Florence.
-- Le Museo dell'Opera del Duomo : Le Museo dell'Opera del Duomo est un musée situé à côté de la cathédrale. Il abrite des œuvres d'art et des objets liturgiques qui ont été créés pour la cathédrale, le baptistère et le campanile. Vous pouvez y voir les célèbres portes en bronze originales du baptistère, ainsi que d'autres œuvres d'art importantes.
+- `La cathédrale elle-même :` La cathédrale, également connue sous le nom de Duomo di Firenze, est le bâtiment principal de la cathédrale Santa Maria del Fiore.
+- `Le baptistère :` C'est un bâtiment octogonal situé en face de la cathédrale. Vous y verrez La "Porte du Paradis" et oui La "Porte du Paradis" un ensemble de portes en bronze situé à l'entrée du baptistère réalisées par [Lorenzo Ghiberti](https://fr.wikipedia.org/wiki/Lorenzo_Ghiberti).
+- `Le campanile :` Le campanile, également connu sous le nom de clocher, est une tour située à côté de la cathédrale. Célèbre pour ses sculptures en relief et pour offrir une vue panoramique sur la ville de Florence.
+- `Le Museo dell'Opera del Duomo :` Le Museo dell'Opera del Duomo est un musée situé à côté de la cathédrale. Il abrite des œuvres d'art et des objets liturgiques qui ont été créés pour la cathédrale, le baptistère et le campanile. Vous pouvez y voir les célèbres portes en bronze originales du baptistère, ainsi que d'autres œuvres d'art importantes.
 
 ## Le Ponte Vecchio,
 
@@ -60,6 +60,6 @@ Pour finir, un peu de détente,
 
 Pour profiter de la beauté de la ville. Ces jardins sont situés derrière le Palazzo Pitti et offrent aussi une vue panoramique sur la ville. Les visiteurs peuvent se promener dans les allées bordées de statues et de fontaines, ainsi que visiter les grottes et les terrasses.
 
-Florence est une ville riche en découvertes culturelles, historiques et gastronomiques. Elle offre une expérience unique et inoubliable à tout visiteur. C'est une ville qui incarne la Renaissance italienne et qui continue d'inspirer et de fasciner les visiteurs du monde entier. Certains la compare souvent à Rome pour moi le choix reste difficile, mais un mon expérience penche plus vers la cité du lys que de la ville éternelle. 
+Florence est une ville riche en découvertes culturelles, historiques et gastronomiques. Elle offre une expérience unique et inoubliable à tout visiteur. C'est une ville qui incarne la Renaissance italienne et qui continue d'inspirer et de fasciner les visiteurs du monde entier. Certains la compare souvent à Rome pour moi le choix reste difficile, mais mon expérience me fait pencher plus vers la cité du lys que de [la ville éternelle](). 
 
 Et vous ? `Florence or not Florence ? , Rome or not Rome ?` Vennez partager votre avis avec [la twittosphère](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/2023-01-10-ou-partir-en-2023). 

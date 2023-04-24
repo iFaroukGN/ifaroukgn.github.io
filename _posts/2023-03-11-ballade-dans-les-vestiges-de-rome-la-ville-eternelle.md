@@ -1,6 +1,6 @@
 ---
 title: Ballade dans les vestiges de Rome, la ville éternelle.
-date: 2023-01-17 00:00:00
+date: 2023-04-24 00:00:00
 featured_image: '/images/visiter-rome/rome_forum_romain.jpg'
 excerpt: "Découvrez la ville éternelle et tombez sous le charme de Rome, cette ville mythique qui allie histoire, culture, art et gastronomie à la perfection."
 ---

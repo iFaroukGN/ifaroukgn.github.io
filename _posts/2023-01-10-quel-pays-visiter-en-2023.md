@@ -132,4 +132,4 @@ L'Italie attire et inspire comme aucun autre pays.
 </div>
 
 
-Tu as d'autres propositions ? Viens la partager avec [la twittosphère](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/2023-01-10-ou-partir-en-2023). 
+Tu as d'autres propositions ? Viens la partager avec [la twittosphère](https://twitter.com/tweetd1voyageur/status/1620776095971966982?s=20). 

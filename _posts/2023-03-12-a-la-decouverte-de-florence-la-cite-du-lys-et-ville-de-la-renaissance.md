@@ -1,11 +1,11 @@
 ---
 title: À la decouverte de florence, la cité du lys
 date: 2023-03-12 00:00:00
-featured_image: '/images/where-to-go-2023/francesca-tirico-9G9vxsMzi18-unsplash.jpg'
-excerpt: "..."
+featured_image: '/images/florence-italy/florence_vue_de_la_place_mmichelangelo.jpg'
+excerpt: "La cité du lys, riche en découvertes culturelles, historiques et gastronomiques. Une expérience unique et inoubliable. Venez découvir florence"
 ---
 
-![](/images/where-to-go-2023/francesca-tirico-9G9vxsMzi18-unsplash.jpg)
+![](/images/florence-italy/florence_vue_de_la_place_mmichelangelo.jpg)
 
 # Florence, la ville de la Renaissance
 
@@ -16,17 +16,32 @@ Située au cœur de [la Toscane](https://fr.wikipedia.org/wiki/Toscane), Florenc
 Aussi connu sous le nom de la cathédrale Santa Maria del Fiore, elle est l'attraction principale de la ville de Florence. Avec sa façade en marbre blanc, vert et rose, ainsi que sa grande coupole construite en terre cuite rouge, elle domine le centre de Florence. Le contraste créé est magnifique. Des milliers de visiteurs sont attirés par sa magnificience. Vous pouvez monter au sommet du dôme pour admirer une vue imprenable sur la ville. Vous pouvez aussi visiter chacun des batiments qui la compose : 
 
 - `La cathédrale elle-même :` La cathédrale, également connue sous le nom de Duomo di Firenze, est le bâtiment principal de la cathédrale Santa Maria del Fiore.
-- `Le baptistère :` C'est un bâtiment octogonal situé en face de la cathédrale. Vous y verrez La "Porte du Paradis" ! Et oui La "Porte du Paradis" est un ensemble de portes en bronze, situées à l'entrée du baptistère réalisées par [Lorenzo Ghiberti](https://fr.wikipedia.org/wiki/Lorenzo_Ghiberti).
+- `Le baptistère :` C'est un bâtiment octogonal situé en face de la cathédrale. Vous y verrez La `"Porte du Paradis"` ! Et oui La "Porte du Paradis" est un ensemble de portes en bronze, situées à l'entrée du baptistère réalisées par [Lorenzo Ghiberti](https://fr.wikipedia.org/wiki/Lorenzo_Ghiberti).
 - `Le campanile :` Le campanile, également connu sous le nom de clocher, est une tour située à côté de la cathédrale. Célèbre pour ses sculptures en relief et pour offrir une vue panoramique sur la ville de Florence.
 - `Le Museo dell'Opera del Duomo :` Le Museo dell'Opera del Duomo est un musée situé à côté de la cathédrale. Il abrite des œuvres d'art et des objets liturgiques qui ont été créés pour la cathédrale, le baptistère et le campanile. Vous pouvez y voir les célèbres portes en bronze originales du baptistère, ainsi que d'autres œuvres d'art importantes.
+
+<div class="gallery" data-columns="2">
+    <img src="/images/florence-italy/florence_le_duomo_de_pret_jour.jpg" alt="Florence le Duomo le jour de prêt">
+    <img src="/images/florence-italy/florence_le_duomo_proche_nuuit.jpg" alt="Florence le Duomo la nuit de prêt">
+</div>
 
 ## Le Ponte Vecchio
 
 C'est l'un des ponts les plus célèbres de Florence. Ce pont médiéval l'est pour ses boutiques d'orfèvres et ses vues sur le fleuve Arno. Vous pouvez vous promener sur le pont et admirer les bijoux étincelants dans les vitrines des boutiques.
 
+<div class="gallery" data-columns="2">
+    <img src="/images/florence-italy/ponte_vecchio_couche_soleil_bis.jpg" alt="Florence le Duomo Ponte Vecchio">
+    <img src="/images/florence-italy/ponte_vecchio_couche_soleil.jpg" alt="Florence le Duomo Ponte Vecchio">
+</div>
+
+
 ## La basilique Santa Croce
 
 Une autre église incontournable de Florence. Cette basilique gothique abrite les tombeaux de personnalités telles que Michel-Ange, Galilée et Machiavel. Les visiteurs peuvent également admirer les fresques magnifiques de la chapelle Bardi et la chapelle Peruzzi.
+
+<div class="gallery" data-columns="1">
+    <img src="/images/florence-italy/santa_croce_cathedral.jpg" alt="Florence la cathedral santa croce">
+</div>
 
 ## La galerie des Offices
 
@@ -35,6 +50,11 @@ Un autre incontournable de Florence. Vous êtes passionné d'art c'est `the plac
 ## Piazza Michelangelo
 
 C'est une place située sur une colline surplombant la ville de Florence. Elle est nommée en l'honneur de Michel-Ange, le célèbre artiste de la Renaissance Italienne qui est né dans la région de Toscane. La place offre une vue panoramique sur la ville de Florence, y compris sur la cathédrale de Santa Maria del Fiore et sur le fleuve Arno.
+
+<div class="gallery" data-columns="2">
+    <img src="/images/florence-italy/florence_le_duomo_de_loin.jpg" alt="Florence le Duomo de loin le jour">
+    <img src="/images/florence-italy/florence_le_duomo_de_loin_la_nuit.jpg" alt="Florence le Duomo de loin la nuit">
+</div>
 
 ## Les jardins de Boboli
 
@@ -58,6 +78,6 @@ La ville offre également une expérience culinaire unique qui vaut la peine d'�
 
 Enfin, vous pouvez également visiter des vignobles afin de déguster le célèbre vin Chianti.
 
-Florence est une ville riche en découvertes culturelles, historiques et gastronomiques. Elle offre une expérience unique et inoubliable à tout visiteur. C'est une ville qui incarne la Renaissance Italienne et qui continue d'inspirer et de fasciner les visiteurs du monde entier. Certains la compare souvent à Rome mais pour moi, le choix reste difficile. Même si mon expérience me fait tout de même pencher vers la cité du lys plutôt que vers [la ville éternelle](). 
+Florence est une ville riche en découvertes culturelles, historiques et gastronomiques. Elle offre une expérience unique et inoubliable à tout visiteur. C'est une ville qui incarne la Renaissance Italienne et qui continue d'inspirer et de fasciner les visiteurs du monde entier. Certains la compare souvent à Rome mais pour moi, le choix reste difficile. Même si mon expérience me fait tout de même pencher vers la cité du lys plutôt que vers [la ville éternelle](/ballade-dans-les-vestiges-de-rome-la-ville-eternelle).
 
 Et vous ? `Florence or not Florence ? Rome or not Rome ?` Venez partager votre avis avec [la twittosphère](https://mobile.twitter.com/search?q=journaldunvoyageur.fr/2023-01-10-ou-partir-en-2023). 

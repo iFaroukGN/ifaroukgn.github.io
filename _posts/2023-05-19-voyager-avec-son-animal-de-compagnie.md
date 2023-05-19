@@ -2,7 +2,7 @@
 title: Voyager avec son animal de compagnie
 date: 2023-05-19 00:00:00
 featured_image: '/images/voyager-avec-son-animal-de-compagnie/josh-rakower-unsplash.jpg'
-excerpt: "Le but du slow tourisme, c'est de voyager lentement, c'est d'apprécier sa destination, de se relaxer, de profiter, d'être chill logique... C'est les vacances."
+excerpt: "Partager ses aventures de voyage avec son animal de compagnie peut être une expérience enrichissante et inoubliable. Dans cet article, nous partagerons des conseils indispensables pour voyager avec votre animal de compagnie et vivre des aventures mémorables ensemble."
 ---
 
 # Les conseils indispensables pour des aventures inoubliables et hilarantes !

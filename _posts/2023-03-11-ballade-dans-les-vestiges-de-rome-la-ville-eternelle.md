@@ -1,6 +1,6 @@
 ---
 title: Ballade dans les vestiges de Rome, la ville éternelle.
-date: 2023-04-24 00:00:00
+date: 2023-01-17 00:00:00
 featured_image: '/images/visiter-rome/rome_forum_romain.jpg'
 excerpt: "Découvrez la ville éternelle et tombez sous le charme de Rome, cette ville mythique qui allie histoire, culture, art et gastronomie à la perfection."
 ---
@@ -56,7 +56,7 @@ La ville compte également de nombreux autres bâtiments remarquables, tels que 
 
 Son musée est l'un des plus grands et des plus importants musées d'art du monde. Si vous êtes passionné par l'art ou si vous avez aucune notion, ce musée pourrait faire naître en vous, une âme d'artiste. Le musée abrite une collection impressionnante d'œuvres d'art, allant de l'art Égyptien à l'art moderne, en passant par la sculpture, les peintures, les fresques et les tapisseries. Parmi les œuvres les plus célèbres du musée du Vatican, on trouve la chapelle Sixtine, décorée de fresques par Michel-Ange qui est l'attraction principale de toute visite au Vatican. 
 
-> **De nombreux visiteurs y passe régulièrement, je vous recommande donc de réserver à l'avance pour éviter les longues files d'attente et de privilégiez les horaires matinaux, ainsi vous pouvez avoir le musée pour vous tout(e) seul(e) immédiatement à l'ouverture.**
+> De nombreux visiteurs y passe régulièrement, je vous recommande donc de réserver à l'avance pour éviter les longues files d'attente et de privilégiez les horaires matinaux, ainsi vous pouvez avoir le musée pour vous tout(e) seul(e) immédiatement à l'ouverture.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-location-id="524" data-gyg-locale-code="fr-FR" data-gyg-widget="city" data-gyg-partner-id="BC8WQC0" data-gyg-placement="content-middle" data-gyg-cmp="rome_post_vatican"></div>
 

@@ -35,4 +35,4 @@ Le Japon est un paradis pour les amateurs de cuisine délicate et équilibrée. 
 
 Que vous soyez un passionné de cuisine ou simplement curieux des saveurs du monde, ces cinq pays offrent une expérience gastronomique incomparable. Du goût authentique de l'Italie aux épices enivrantes de l'Inde, en passant par les délices raffinés de la France, la diversité culinaire de ces destinations ne manquera pas de vous émerveiller. Préparez vos papilles pour un voyage culinaire inoubliable et laissez-vous séduire par les traditions et les saveurs uniques de chaque pays. Bon appétit et bon voyage !
 
-D'accord avec mon top 5 ? Viens partagez avec [la twittosphère](https://mobile.twitter.com/search?q=journaldunvoyageur.fr) ton top 5 ;).
+Vous voulez partager votre mon top 5 ? [C'est ici que ça se passe](https://mobile.twitter.com/search?q=journaldunvoyageur.fr).

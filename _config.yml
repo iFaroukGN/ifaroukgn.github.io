@@ -14,8 +14,7 @@ collections:
     output: true
     permalink: /project/:slug
     
-include:
-  - ".well-known"
+include: ['.well-known']
 
 defaults:
   -

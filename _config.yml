@@ -13,6 +13,8 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+    
+include: [".well-known"]
 
 defaults:
   -

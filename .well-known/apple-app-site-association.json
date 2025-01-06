@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "TM2R2994PY.fr.wonkrew.example.apple-samplecode.Shiny--SAMPLE-CODE-DISAMBIGUATOR-"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+           "TM2R2994PY.fr.wonkrew.example.apple-samplecode.Shiny--SAMPLE-CODE-DISAMBIGUATOR-"
+        ]
+    }
+}
